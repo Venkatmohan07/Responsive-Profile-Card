@@ -29,6 +29,7 @@ The project consists of:
 3. Open the `index.html` file in a browser to see the profile card in action.
 4. Optionally, customize the name, title, description, and contact button to match your personal details.
 
+
 ## Customization
 - You can easily customize the profile card by editing the HTML and updating the CSS.
 - To change the profile picture, replace `moh.jpg` with your desired image.
@@ -38,4 +39,6 @@ The project consists of:
 ## Technologies Used
 - HTML
 - CSS (for styling and responsive design)
+  ![Screenshot 2024-12-21 210319](https://github.com/user-attachments/assets/89ec6191-ed35-49c3-a031-d2a14adbd463)
+
   
